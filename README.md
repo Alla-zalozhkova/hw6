@@ -10,5 +10,6 @@
 ![](https://github.com/Alla-zalozhkova/hw6/blob/master/4Kff1QYZL9A.jpg)
 ### Вывод: ###
 График подтверждает, что "apartment" популярнее в американском английском, а вот в употреблении слова "flat", нет разницы.
+## AntConc ## 
 
 
